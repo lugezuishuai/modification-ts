@@ -1,0 +1,4 @@
+#忽略test-data文件夹里面的文件
+/test-data
+#忽略node-modules文件里面的文件
+/node_modules
