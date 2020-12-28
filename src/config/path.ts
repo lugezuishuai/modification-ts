@@ -5,5 +5,5 @@ export interface Path {
 
 export const Path: Path = {
     ProjectPath: 'xxx',             // 项目文件路径
-    FilePath: 'xxx'                 // 文档路径
+    FilePath: 'xxx.txt'             // 文档路径
 }
