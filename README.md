@@ -17,3 +17,5 @@
 撤销项目中的修改：`npm run rollBack`
 
 生成文档对应的hashMap：`npm run hashMap`
+
+构建js文件：`npm run build`
