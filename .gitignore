@@ -4,3 +4,5 @@
 /node_modules
 #忽略.DS_Store文件
 .DS_Store
+#忽略dist文件夹
+/dist
